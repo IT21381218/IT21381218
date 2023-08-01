@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Poornaka Perera</h1>
 <h3 align="center">full stack developer and music producer</h3>
+<img alt="coding" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21381218&label=Profile%20views&color=0e75b6&style=flat" alt="it21381218" /> </p>
 

@@ -156,7 +156,7 @@ Other        ████░░░░░░░░░░░░░░░░░░�
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 ### 🎵 Currently Vibing To
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER&unique=true" />
+<img src="https://res.cloudinary.com/dwcxwpn7q/image/upload/v1751106421/cattle%20site/Untitled-1_vcngjq.png" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 

@@ -95,4 +95,98 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.youtube.com/channel/UCh2lSlzUxZRu0bvLceDUMow">
-  <img src="https://img.shields.io/badge/YouTube-FF
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<img src="https://img.shields.io/twitter/follow/ekzetef?logo=twitter&style=for-the-badge&color=1da1f2" />
+
+</div>
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```javascript
+const poornaka = {
+    currentlyLearning: ["Machine Learning", "Cloud Architecture", "Advanced React Patterns"],
+    workingOn: ["Personal Portfolio", "Music Streaming App", "AI-Powered Tools"],
+    goals2024: ["Contribute to Open Source", "Launch Music Album", "Master DevOps"],
+    funFact: "I can code for hours with the right playlist! 🎵"
+};
+```
+
+</div>
+
+## 📊 Weekly Development Breakdown
+
+```text
+JavaScript   ████████████████████████▓   85.2%
+Python       ██████████▓░░░░░░░░░░░░░░   35.8%
+Java         ████████░░░░░░░░░░░░░░░░░   28.4%
+CSS          ██████░░░░░░░░░░░░░░░░░░░   22.1%
+Other        ████░░░░░░░░░░░░░░░░░░░░░   15.3%
+```
+
+## 🎨 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🐄 Zade - Cattle Management System
+
+<a href="https://github.com/IT21381218/zade.git">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=IT21381218&repo=zade&theme=tokyonight&hide_border=true" />
+</a>
+
+**🚀 Tech Stack:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+**✨ Features:**
+- 📊 Livestock Tracking
+- 🏥 Health Monitoring  
+- 📈 Farm Analytics
+- 📱 Mobile Responsive
+
+<a href="https://github.com/IT21381218/zade.git">
+<img src="https://img.shields.io/badge/View%20Code-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://res.cloudinary.com/dwcxwpn7q/image/upload/v1742198514/cattle%20site/dfd_vfjkf9.png" alt="Zade Project" width="100%" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,217,255,0.3);"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/it21381218/it21381218/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+### 🎵 Currently Vibing To
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER&unique=true" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+**"Code is like music - it should be elegant, efficient, and expressive"** 🎵💻
+
+</div>

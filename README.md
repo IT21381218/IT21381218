@@ -131,22 +131,15 @@ Other        ████░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<a href="https://res.cloudinary.com/dwcxwpn7q/image/upload/v1751106421/cattle%20site/Untitled-1_vcngjq.png">
+<a href="https://github.com/it21381218/project1">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=it21381218&repo=project1&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/IT21381218/zade.git">
+<a href="https://github.com/it21381218/project2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=it21381218&repo=project2&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/it21381218/it21381218/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
 
 ---
 
@@ -161,3 +154,6 @@ Other        ████░░░░░░░░░░░░░░░░░░�
 **"Code is like music - it should be elegant, efficient, and expressive"** 🎵💻
 
 </div>
+```
+
+

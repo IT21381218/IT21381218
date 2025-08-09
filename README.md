@@ -131,11 +131,11 @@ Other        ████░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<a href="https://github.com/it21381218/project1">
+<a href="[https://github.com/it21381218/project1](https://github.com/IT21381218/ResearchWeb.git)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=it21381218&repo=project1&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/it21381218/project2">
-  <img src="[https://github-readme-stats.vercel.app/api/pin/?username=it21381218&repo=project2&theme=tokyonight&hide_border=true](https://res.cloudinary.com/dwcxwpn7q/image/upload/v1754723490/Home_xvvljy.png)" />
+<a href="https://github.com/IT21381218/zade.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=it21381218&repo=project2&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>

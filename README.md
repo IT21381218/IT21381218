@@ -135,7 +135,7 @@ Other        ████░░░░░░░░░░░░░░░░░░�
 <tr>
 <td width="50%" valign="top">
 
-### 🐄 Zade - Cattle Management System
+### 🐄 Cattle Management System
 
 <a href="https://github.com/IT21381218/zade.git">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=IT21381218&repo=zade&theme=tokyonight&hide_border=true" />
@@ -167,13 +167,6 @@ Other        ████░░░░░░░░░░░░░░░░░░�
 
 </div>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/it21381218/it21381218/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
 
 ---
 

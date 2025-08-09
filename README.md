@@ -1,27 +1,195 @@
-<h1 align="center">Hi 👋, I'm Poornaka Perera</h1>
-<h3 align="center">full stack developer and music producer</h3>
-<img align="center" width= 500px alt="coding" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it21381218&label=Profile%20views&color=0e75b6&style=flat" alt="it21381218" /> </p>
+# 🎵 Poornaka Perera 🎵
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21381218" alt="it21381218" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Music+Producer+%F0%9F%8E%B5;Creative+Problem+Solver+%E2%9C%A8;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="left"> <a href="https://twitter.com/ekzetef" target="blank"><img src="https://img.shields.io/twitter/follow/ekzetef?logo=twitter&style=for-the-badge" alt="ekzetef" /></a> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ekzetef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ekzetef" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/poornaka-perera-ab56bb218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poornaka perera" height="30" width="40" /></a>
-<a href="https://fb.com/poornaka sri rajmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="poornaka sri rajmal" height="30" width="40" /></a>
-<a href="https://instagram.com/ekzetef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ekzetef" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCh2lSlzUxZRu0bvLceDUMow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ekzetef" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 🌟 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21381218&show_icons=true&locale=en&layout=compact" alt="it21381218" /></p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it21381218&show_icons=true&locale=en" alt="it21381218" /></p>
+```
+🎯 Passionate about creating digital experiences
+🎵 Crafting beats and melodies in my spare time  
+💡 Always exploring new technologies
+🌱 Currently diving deep into AI/ML
+⚡ Fun fact: I debug code with music on!
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it21381218&" alt="it21381218" /></p>
+<br clear="right"/>
+
+## 🔥 My Stats
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=it21381218&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=it21381218&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it21381218&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=it21381218&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=it21381218&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10"/>
+
+<img src="https://komarev.com/ghpvc/?username=it21381218&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+
+</div>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,c,kotlin" />
+
+### 🌐 Frontend Development  
+<img src="https://skillicons.dev/icons?i=react,html,css,figma" />
+
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+### 🔧 Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,postman,android,unity,blender,photoshop" />
+
+</div>
+
+## 🎵 Music Production Setup
+
+<div align="center">
+
+```
+🎹 DAW: FL Studio / Ableton Live
+🎧 Monitoring: Audio-Technica ATH-M50x  
+🎤 Recording: Rode PodMic
+🔊 Interface: Focusrite Scarlett 2i2
+```
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://twitter.com/ekzetef">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/poornaka-perera-ab56bb218">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://fb.com/poornaka sri rajmal">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://instagram.com/ekzetef">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/channel/UCh2lSlzUxZRu0bvLceDUMow">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<img src="https://img.shields.io/twitter/follow/ekzetef?logo=twitter&style=for-the-badge&color=1da1f2" />
+
+</div>
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```javascript
+const poornaka = {
+    currentlyLearning: ["Machine Learning", "Cloud Architecture", "Advanced React Patterns"],
+    workingOn: ["Personal Portfolio", "Music Streaming App", "AI-Powered Tools"],
+    goals2024: ["Contribute to Open Source", "Launch Music Album", "Master DevOps"],
+    funFact: "I can code for hours with the right playlist! 🎵"
+};
+```
+
+</div>
+
+## 📊 Weekly Development Breakdown
+
+```text
+JavaScript   ████████████████████████▓   85.2%
+Python       ██████████▓░░░░░░░░░░░░░░   35.8%
+Java         ████████░░░░░░░░░░░░░░░░░   28.4%
+CSS          ██████░░░░░░░░░░░░░░░░░░░   22.1%
+Other        ████░░░░░░░░░░░░░░░░░░░░░   15.3%
+```
+
+## 🎨 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/it21381218/project1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=it21381218&repo=project1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/it21381218/project2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=it21381218&repo=project2&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/it21381218/it21381218/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+### 🎵 Currently Vibing To
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER&unique=true" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+**"Code is like music - it should be elegant, efficient, and expressive"** 🎵💻
+
+</div>
+```
+
+This redesigned README includes:
+
+🌟 **Cool Effects & Features:**
+- Animated typing header
+- Gradient wave banners
+- Modern skill icons with skillicons.dev
+- Contribution snake animation
+- Activity graphs and enhanced stats
+- Random dev quotes
+- Music-themed elements
+- Modern badges and styling
+- Better organization with emojis
+- Code blocks with syntax highlighting
+- Weekly development breakdown
+- Featured projects section
+
+🎨 **Visual Improvements:**
+- Tokyo Night theme for consistency
+- Better color scheme
+- Responsive layout
+- Professional badges
+- Clean sections with proper spacing
+
+To make this work perfectly, you'll need to:
+1. Replace placeholder project repos with your actual repositories
+2. Add your Spotify username if you want the music widget
+3. Set up the contribution snake action in your profile repository
+

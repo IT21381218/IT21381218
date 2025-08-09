@@ -131,7 +131,7 @@ Other        ████░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<a href="[https://github.com/it21381218/project1](https://github.com/IT21381218/ResearchWeb.git)">
+<a href="https://res.cloudinary.com/dwcxwpn7q/image/upload/v1751106421/cattle%20site/Untitled-1_vcngjq.png">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=it21381218&repo=project1&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/IT21381218/zade.git">
@@ -155,8 +155,6 @@ Other        ████░░░░░░░░░░░░░░░░░░�
 ### 💭 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-### 🎵 Currently Vibing To
-<img src="https://res.cloudinary.com/dwcxwpn7q/image/upload/v1751106421/cattle%20site/Untitled-1_vcngjq.png" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 

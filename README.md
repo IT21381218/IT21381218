@@ -136,7 +136,7 @@ Other        ████░░░░░░░░░░░░░░░░░░�
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=IT21381218&repo=zade&theme=tokyonight&hide_border=true" />
 </a>
 
-<img src="https://res.cloudinary.com/dwcxwpn7q/image/upload/v1742198514/cattle%20site/dfd_vfjkf9.png" alt="Zade Project Screenshot" width="600" style="border-radius: 10px; margin: 10px 0;"/>
+<img src="https://res.cloudinary.com/dwcxwpn7q/image/upload/v1742198514/cattle%20site/dfd_vfjkf9.png" alt="Zade Project Screenshot" width="400" style="border-radius: 10px; margin: 10px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
 
 **Zade** - A comprehensive cattle management system built with modern web technologies. Features include livestock tracking, health monitoring, and farm management tools.
 

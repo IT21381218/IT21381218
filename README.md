@@ -131,11 +131,11 @@ Other        ████░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<a href="https://github.com/it21381218/project1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=it21381218&repo=project1&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/IT21381218/SQA.git">
+  <img src="[https://github-readme-stats.vercel.app/api/pin/?username=it21381218&repo=project1&theme=tokyonight&hide_border=true](https://res.cloudinary.com/dwcxwpn7q/image/upload/v1754725822/Capture_s7j7q7.jpg)" />
 </a>
-<a href="https://github.com/it21381218/project2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=it21381218&repo=project2&theme=tokyonight&hide_border=true" />
+<a href="[https://github.com/it21381218/project2](https://github.com/IT21381218/zade.git)">
+  <img src="[https://github-readme-stats.vercel.app/api/pin/?username=it21381218&repo=project2&theme=tokyonight&hide_border=true](https://res.cloudinary.com/dwcxwpn7q/image/upload/v1734555042/zade/output_o5treq.png)" />
 </a>
 
 </div>

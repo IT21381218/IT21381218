@@ -131,15 +131,28 @@ Other        ████░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<a href="https://github.com/it21381218/project1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=it21381218&repo=project1&theme=tokyonight&hide_border=true" />
+### 🐄 Zade - Cattle Management System
+<a href="https://github.com/IT21381218/zade.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IT21381218&repo=zade&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/it21381218/project2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=it21381218&repo=project2&theme=tokyonight&hide_border=true" />
+
+<img src="https://res.cloudinary.com/dwcxwpn7q/image/upload/v1742198514/cattle%20site/dfd_vfjkf9.png" alt="Zade Project Screenshot" width="600" style="border-radius: 10px; margin: 10px 0;"/>
+
+**Zade** - A comprehensive cattle management system built with modern web technologies. Features include livestock tracking, health monitoring, and farm management tools.
+
+<a href="https://github.com/IT21381218/zade.git">
+  <img src="https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/it21381218/it21381218/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ---
 
@@ -148,12 +161,11 @@ Other        ████░░░░░░░░░░░░░░░░░░�
 ### 💭 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
+### 🎵 Currently Vibing To
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER&unique=true" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 **"Code is like music - it should be elegant, efficient, and expressive"** 🎵💻
 
 </div>
-```
-
-
